@@ -1,0 +1,7 @@
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\MOD_EMBACore\UIOrder.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\FiscaRuntime\addmodules\MOD_EMBACore\UIOrder.pdb
+E:\TFServer2013\ischoolteam\ischool_EMBA\UIOrder\obj\x86\Debug\UIOrder.csprojResolveAssemblyReference.cache
+E:\TFServer2013\ischoolteam\ischool_EMBA\UIOrder\obj\x86\Debug\UIOrder.Properties.Resources.resources
+E:\TFServer2013\ischoolteam\ischool_EMBA\UIOrder\obj\x86\Debug\UIOrder.csproj.GenerateResource.Cache
+E:\TFServer2013\ischoolteam\ischool_EMBA\UIOrder\obj\x86\Debug\UIOrder.dll
+E:\TFServer2013\ischoolteam\ischool_EMBA\UIOrder\obj\x86\Debug\UIOrder.pdb
